@@ -1,0 +1,1 @@
+# -Encaptulation-Special-Function
